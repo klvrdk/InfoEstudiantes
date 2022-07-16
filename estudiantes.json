@@ -1,0 +1,46 @@
+   {
+      "alumno":"Klever Tuquerres",
+      "nota":10,
+      "ranking":10
+   },
+   {
+      "alumno":"Carlos Perez",
+      "nota":9.5,
+      "ranking":50
+   },
+   {
+      "alumno":"Juan Pozo",
+      "nota":9,
+      "ranking":100
+   },
+   {
+      "alumno":"Paola Alvarez",
+      "nota":8,
+      "ranking":150
+   },
+   {
+      "alumno":"Diana Ponce",
+      "nota":7.5,
+      "ranking":180
+   },
+   {
+      "alumno":"Victor Tapia",
+      "nota":6,
+      "ranking":200
+   },
+   {
+      "alumno":"Melissa Cordova",
+      "nota":5,
+      "ranking":280
+   },
+   {
+      "alumno":"Belen Avila",
+      "nota":4,
+      "ranking":440
+   },
+   {
+      "alumno":"Belen Avila",
+      "nota":3,
+      "ranking":490
+   }
+]
